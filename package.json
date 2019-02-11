@@ -10,7 +10,6 @@
   "author": "liupl",
   "license": "MIT",
   "dependencies": {
-    "echarts": "^4.2.0-rc.2"
   },
   "devDependencies": {
     "http-server": "^0.11.1"
